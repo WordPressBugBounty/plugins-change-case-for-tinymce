@@ -1,0 +1,1 @@
+# plugins-change-case-for-tinymce
