@@ -2,7 +2,9 @@
 /**
  * Plugin name: Change Case
  * Author: Michael Aronoff
- * Version: 2.3
+ * Version: 2.3.2
+ * License:      GPL2
+ * License URI:  https://www.gnu.org/licenses/gpl-2.0.html
  * Description: Adds Change Case adds buttons to change text case in the WordPress visual editor.
  * */
 

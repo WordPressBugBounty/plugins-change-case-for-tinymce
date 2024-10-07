@@ -2,11 +2,11 @@
 Contributors: Michael Aronoff
 Tags: text, case, TinyMCE, editor
 Requires at least: 3.3
-Tested up to: 6.5
+Tested up to: 6.6
 Requires PHP: 7.4
 Stable tag: 2.3.2
 License: GPLv2 or later
-License URI: http://www.gnu.org/licenses/gpl-2.0.html
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Change Case adds buttons to change text case in the WordPress visual editor.
 
