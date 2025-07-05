@@ -2,7 +2,7 @@
 Contributors: Michael Aronoff
 Tags: text, case, TinyMCE, editor
 Requires at least: 3.3
-Tested up to: 6.6
+Tested up to: 6.8
 Requires PHP: 7.4
 Stable tag: 2.3.2
 License: GPLv2 or later
