@@ -2,9 +2,9 @@
 Contributors: Michael Aronoff
 Tags: text, case, TinyMCE, editor
 Requires at least: 3.3
-Tested up to: 6.8
+Tested up to: 7.1
 Requires PHP: 7.4
-Stable tag: 2.3.2
+Stable tag: 2.3.3
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -81,3 +81,6 @@ Updated to work with PHP 8.1
 
 = 2.3.2 =
 Tested with WP 6.2
+
+= 2.3.3 =
+Tested with WP 7.1
